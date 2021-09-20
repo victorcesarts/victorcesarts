@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 Atualmente estudando C++ e Python
 - 📫 Meu e-mail: victorcesarts@gmail.com
-- 
+
  <div>
   <a href="https://github.com/victorcesarts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcesarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
