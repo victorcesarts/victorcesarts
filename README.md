@@ -2,12 +2,11 @@
 - 🌱 Atualmente estudando C++ e Python
 - 📫 Meu e-mail: victorcesarts@gmail.com
 - 
-<a href="https://github.com/victorcesarts/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcesarts&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/victorcesarts/victorcesarts.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcesarts&repo=victorcesarts.github.io&theme=buefy" />
-</a>
+ <div>
+  <a href="https://github.com/victorcesarts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcesarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesarts&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
