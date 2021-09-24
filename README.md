@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🧠 Currently studying C++ and Python
-- 📫 My e-mail: victorcesarts@gmail.com
+- 📫 My email: victorcesarts@gmail.com
 
  <div>
   <a href="https://github.com/victorcesarts">
