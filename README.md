@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🧠 Currently studying C++ e Python
+- 🧠 Currently studying C++ and Python
 - 📫 My e-mail: victorcesarts@gmail.com
 
  <div>
