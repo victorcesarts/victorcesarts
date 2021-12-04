@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🧠 Currently learning C++ and Python
+- 🧠 Currently learning C++, VHDL and MIPS Assembly
 - 📫 My email: victorcesarts@gmail.com
 
  <div>
