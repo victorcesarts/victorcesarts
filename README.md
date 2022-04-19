@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🧠 Currently learning C++, VHDL and MIPS Assembly
+- 🧠 Currently learning HTML CSS JavaScript and many other things
 - 📫 My email: victorcesarts@gmail.com
+- I have knowledge about C C++ VHDL and MIPS Assembly
 
  <div>
   <a href="https://github.com/victorcesarts">
